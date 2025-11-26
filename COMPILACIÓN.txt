@@ -1,0 +1,16 @@
+COMPILACIÓN:
+
+1.Ingresar a la carpeta del proyecto
+	cd "/c/Users/danie/OneDrive/Desktop/C++/Mapa estelar/src"
+
+2.Ejecutar los cpp
+	g++ main.cpp StarCatalog.cpp Projection.cpp Renderer.cpp \
+	-I /ucrt64/include \
+	-L /ucrt64/lib \
+	-lsfml-graphics -lsfml-window -lsfml-system \
+	-std=c++20 \
+	-o mapa_estelar
+
+3.Ejecutar el .exe del proyecto
+	 ./mapa_estelar.exe
+

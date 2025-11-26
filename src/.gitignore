@@ -1,0 +1,20 @@
+# Archivos compilados
+*.exe
+*.obj
+*.o
+*.pdb
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Carpetas de compilación
+/build/
+/bin/
+
+# Datos pesados o locales
+/data/*.csv
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
