@@ -1,5 +1,6 @@
 COMPILACIÓN:
 
+Los comandos se ejecutan desde MSYS2 UCRT64
 1.Ingresar a la carpeta del proyecto
 	cd "/c/Users/danie/OneDrive/Desktop/C++/Mapa estelar/src"
 
